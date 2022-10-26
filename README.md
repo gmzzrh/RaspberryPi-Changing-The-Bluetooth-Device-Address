@@ -1,6 +1,6 @@
-# Changing-RaspberryPi-Bluetooth-Device-Address
+# RaspberryPi-Changing-The-Bluetooth-Device-Address
 
-Changing Raspberry Pi Bluetooth Device Address
+RaspberryPi Changing The Bluetooth Device Address
 It is aimed to change the address of the bluetooth device attached to the Raspberry Pi with bdaddr. It was needed to distinguish between devices that came with the same address.
 First, bdaddr is installed on the Raspberry Pi. The first command is to install the prerequisite packages. Continue by typing "E".
 
